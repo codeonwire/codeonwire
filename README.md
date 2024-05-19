@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my unity game **Dumsidash**
 
-- 📚 I’m currently learning **Typescript, c#, sql**
+- 📚 I’m currently learning **Javacript libs and apis**
 
 - 🤝 I’m looking to collaborate on **Future games**
 
